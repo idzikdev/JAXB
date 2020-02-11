@@ -1,4 +1,4 @@
-#Preparing Java classes form XML
+# Preparing Java classes form XML
 
 ## usage 
 run lifecycle package
